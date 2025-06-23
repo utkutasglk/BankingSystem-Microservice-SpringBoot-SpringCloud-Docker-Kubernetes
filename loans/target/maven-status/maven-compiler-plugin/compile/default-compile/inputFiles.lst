@@ -1,0 +1,16 @@
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/LoansApplication.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/audit/AuditAwareImpl.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/constants/LoansConstants.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/controller/LoansController.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/dto/ErrorResponseDto.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/dto/LoansDto.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/dto/ResponseDto.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/entity/BaseEntity.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/entity/Loans.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/exception/GlobalExceptionHandler.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/exception/LoanAlreadyExistsException.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/exception/ResourceNotFoundException.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/mapper/LoansMapper.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/repository/LoansRepository.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/service/ILoansService.java
+/Users/utkutasguluk/Desktop/software/Github/bankingsystem-microservice/loans/src/main/java/com/eazybytes/loans/service/impl/LoansServiceImpl.java
