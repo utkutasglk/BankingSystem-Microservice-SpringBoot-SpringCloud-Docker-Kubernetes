@@ -14,3 +14,22 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+  config:
+    import:
+      - "application_qa.yml"
+      - "application_prod.yml"
+  profiles:
+    active:
+      - "qa"
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to accounts related local APIs"
+  contactDetails:
+    name: "Utku Tasguluk"
+    email: "utku.tasguluk@gmail.com"
+  onCallSupport:
+    - (546) 420-4907
+    - (530) 147-9920
